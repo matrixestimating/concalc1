@@ -1,0 +1,271 @@
+House Type	Finish Level	Construction Method	Size Range (sqm)	Location	Min Cost/m2 ($)	Max Cost/m2 ($)
+Project Home	Basic Standard	Brick Veneer	90/110	Adelaide	1045	1125
+Project Home	Basic Standard	Brick Veneer	90/110	Brisbane	1355	1460
+Project Home	Basic Standard	Brick Veneer	90/110	Melbourne	1405	1510
+Project Home	Basic Standard	Brick Veneer	90/110	Perth	1115	1205
+Project Home	Basic Standard	Brick Veneer	90/110	Sydney	1490	1605
+Project Home	Basic Standard	Brick Veneer	120/140	Adelaide	975	1055
+Project Home	Basic Standard	Brick Veneer	120/140	Brisbane	1290	1390
+Project Home	Basic Standard	Brick Veneer	120/140	Melbourne	1375	1480
+Project Home	Basic Standard	Brick Veneer	120/140	Perth	1075	1160
+Project Home	Basic Standard	Brick Veneer	120/140	Sydney	1430	1545
+Project Home	Basic Standard	Brick Veneer	160/190	Adelaide	1095	1180
+Project Home	Basic Standard	Brick Veneer	160/190	Brisbane	1485	1600
+Project Home	Basic Standard	Brick Veneer	160/190	Melbourne	1535	1650
+Project Home	Basic Standard	Brick Veneer	160/190	Perth	1140	1225
+Project Home	Basic Standard	Brick Veneer	160/190	Sydney	1605	1730
+Project Home	Basic Standard	Full Brick	90/110	Adelaide	1125	1210
+Project Home	Basic Standard	Full Brick	90/110	Brisbane	1470	1585
+Project Home	Basic Standard	Full Brick	90/110	Melbourne	1495	1610
+Project Home	Basic Standard	Full Brick	90/110	Perth	1140	1225
+Project Home	Basic Standard	Full Brick	90/110	Sydney	1520	1640
+Project Home	Basic Standard	Full Brick	120/140	Adelaide	1045	1125
+Project Home	Basic Standard	Full Brick	120/140	Brisbane	1430	1540
+Project Home	Basic Standard	Full Brick	120/140	Melbourne	1485	1600
+Project Home	Basic Standard	Full Brick	120/140	Perth	1100	1185
+Project Home	Basic Standard	Full Brick	120/140	Sydney	1495	1610
+Project Home	Basic Standard	Full Brick	160/190	Adelaide	1180	1275
+Project Home	Basic Standard	Full Brick	160/190	Brisbane	1645	1770
+Project Home	Basic Standard	Full Brick	160/190	Melbourne	1670	1800
+Project Home	Basic Standard	Full Brick	160/190	Perth	1185	1275
+Project Home	Basic Standard	Full Brick	160/190	Sydney	1625	1755
+Project Home	Medium Standard	Brick Veneer	90/110	Adelaide	1135	1225
+Project Home	Medium Standard	Brick Veneer	90/110	Brisbane	1540	1660
+Project Home	Medium Standard	Brick Veneer	90/110	Melbourne	1590	1710
+Project Home	Medium Standard	Brick Veneer	90/110	Perth	1190	1280
+Project Home	Medium Standard	Brick Veneer	90/110	Sydney	1635	1765
+Project Home	Medium Standard	Brick Veneer	120/140	Adelaide	1135	1225
+Project Home	Medium Standard	Brick Veneer	120/140	Brisbane	1540	1660
+Project Home	Medium Standard	Brick Veneer	120/140	Melbourne	1590	1710
+Project Home	Medium Standard	Brick Veneer	120/140	Perth	1190	1280
+Project Home	Medium Standard	Brick Veneer	120/140	Sydney	1635	1765
+Project Home	Medium Standard	Brick Veneer	160/190	Adelaide	1095	1180
+Project Home	Medium Standard	Brick Veneer	160/190	Brisbane	1485	1600
+Project Home	Medium Standard	Brick Veneer	160/190	Melbourne	1535	1650
+Project Home	Medium Standard	Brick Veneer	160/190	Perth	1140	1225
+Project Home	Medium Standard	Brick Veneer	160/190	Sydney	1605	1730
+Project Home	Medium Standard	Full Brick	90/110	Adelaide	1210	1305
+Project Home	Medium Standard	Full Brick	90/110	Brisbane	1655	1785
+Project Home	Medium Standard	Full Brick	90/110	Melbourne	1690	1820
+Project Home	Medium Standard	Full Brick	90/110	Perth	1235	1330
+Project Home	Medium Standard	Full Brick	90/110	Sydney	1685	1815
+Project Home	Medium Standard	Full Brick	120/140	Adelaide	1210	1305
+Project Home	Medium Standard	Full Brick	120/140	Brisbane	1655	1785
+Project Home	Medium Standard	Full Brick	120/140	Melbourne	1690	1820
+Project Home	Medium Standard	Full Brick	120/140	Perth	1235	1330
+Project Home	Medium Standard	Full Brick	120/140	Sydney	1685	1815
+Project Home	Medium Standard	Full Brick	160/190	Adelaide	1180	1275
+Project Home	Medium Standard	Full Brick	160/190	Brisbane	1645	1770
+Project Home	Medium Standard	Full Brick	160/190	Melbourne	1670	1800
+Project Home	Medium Standard	Full Brick	160/190	Perth	1185	1275
+Project Home	Medium Standard	Full Brick	160/190	Sydney	1625	1755
+Project Home	High Standard	Brick Veneer	90/110	Adelaide	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Brick Veneer	90/110	Brisbane	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Brick Veneer	90/110	Melbourne	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Brick Veneer	90/110	Perth	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Brick Veneer	90/110	Sydney	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Brick Veneer	120/140	Adelaide	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Brick Veneer	120/140	Brisbane	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Brick Veneer	120/140	Melbourne	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Brick Veneer	120/140	Perth	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Brick Veneer	120/140	Sydney	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Brick Veneer	160/190	Adelaide	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Brick Veneer	160/190	Brisbane	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Brick Veneer	160/190	Melbourne	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Brick Veneer	160/190	Perth	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Brick Veneer	160/190	Sydney	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Full Brick	90/110	Adelaide	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Full Brick	90/110	Brisbane	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Full Brick	90/110	Melbourne	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Full Brick	90/110	Perth	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Full Brick	90/110	Sydney	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Full Brick	120/140	Adelaide	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Full Brick	120/140	Brisbane	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Full Brick	120/140	Melbourne	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Full Brick	120/140	Perth	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Full Brick	120/140	Sydney	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Full Brick	160/190	Adelaide	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Full Brick	160/190	Brisbane	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Full Brick	160/190	Melbourne	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Full Brick	160/190	Perth	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	High Standard	Full Brick	160/190	Sydney	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Brick Veneer	90/110	Adelaide	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Brick Veneer	90/110	Brisbane	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Brick Veneer	90/110	Melbourne	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Brick Veneer	90/110	Perth	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Brick Veneer	90/110	Sydney	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Brick Veneer	120/140	Adelaide	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Brick Veneer	120/140	Brisbane	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Brick Veneer	120/140	Melbourne	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Brick Veneer	120/140	Perth	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Brick Veneer	120/140	Sydney	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Brick Veneer	160/190	Adelaide	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Brick Veneer	160/190	Brisbane	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Brick Veneer	160/190	Melbourne	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Brick Veneer	160/190	Perth	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Brick Veneer	160/190	Sydney	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Full Brick	90/110	Adelaide	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Full Brick	90/110	Brisbane	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Full Brick	90/110	Melbourne	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Full Brick	90/110	Perth	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Full Brick	90/110	Sydney	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Full Brick	120/140	Adelaide	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Full Brick	120/140	Brisbane	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Full Brick	120/140	Melbourne	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Full Brick	120/140	Perth	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Full Brick	120/140	Sydney	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Full Brick	160/190	Adelaide	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Full Brick	160/190	Brisbane	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Full Brick	160/190	Melbourne	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Full Brick	160/190	Perth	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Project Home	Prestige Standard	Full Brick	160/190	Sydney	"no data select basic or medium standard" 	"no data select basic or medium standard" 
+Individual House	Basic Standard	Brick Veneer	90/110	Adelaide	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Brick Veneer	90/110	Brisbane	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Brick Veneer	90/110	Melbourne	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Brick Veneer	90/110	Perth	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Brick Veneer	90/110	Sydney	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Brick Veneer	120/140	Adelaide	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Brick Veneer	120/140	Brisbane	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Brick Veneer	120/140	Melbourne	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Brick Veneer	120/140	Perth	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Brick Veneer	120/140	Sydney	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Brick Veneer	160/190	Adelaide	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Brick Veneer	160/190	Brisbane	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Brick Veneer	160/190	Melbourne	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Brick Veneer	160/190	Perth	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Brick Veneer	160/190	Sydney	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Full Brick	90/110	Adelaide	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Full Brick	90/110	Brisbane	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Full Brick	90/110	Melbourne	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Full Brick	90/110	Perth	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Full Brick	90/110	Sydney	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Full Brick	120/140	Adelaide	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Full Brick	120/140	Brisbane	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Full Brick	120/140	Melbourne	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Full Brick	120/140	Perth	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Full Brick	120/140	Sydney	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Full Brick	160/190	Adelaide	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Full Brick	160/190	Brisbane	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Full Brick	160/190	Melbourne	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Full Brick	160/190	Perth	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Basic Standard	Full Brick	160/190	Sydney	"no data select medium, high or prestige standard " 	"no data select medium, high or prestige standard " 
+Individual House	Medium Standard	Timber Framed	90/110	Adelaide	1240	1335
+Individual House	Medium Standard	Timber Framed	90/110	Brisbane	1785	1925
+Individual House	Medium Standard	Timber Framed	90/110	Melbourne	1735	1870
+Individual House	Medium Standard	Timber Framed	90/110	Perth	1745	1880
+Individual House	Medium Standard	Timber Framed	90/110	Sydney	2145	2310
+Individual House	Medium Standard	Timber Framed	120/140	Adelaide	1240	1335
+Individual House	Medium Standard	Timber Framed	120/140	Brisbane	1785	1925
+Individual House	Medium Standard	Timber Framed	120/140	Melbourne	1735	1870
+Individual House	Medium Standard	Timber Framed	120/140	Perth	1745	1880
+Individual House	Medium Standard	Timber Framed	120/140	Sydney	2145	2310
+Individual House	Medium Standard	Timber Framed	150/350	Adelaide	1240	1335
+Individual House	Medium Standard	Timber Framed	150/350	Brisbane	1785	1925
+Individual House	Medium Standard	Timber Framed	150/350	Melbourne	1735	1870
+Individual House	Medium Standard	Timber Framed	150/350	Perth	1745	1880
+Individual House	Medium Standard	Timber Framed	150/350	Sydney	2145	2310
+Individual House	Medium Standard	Brick Veneer	90/110	Adelaide	1345	1450
+Individual House	Medium Standard	Brick Veneer	90/110	Brisbane	1960	2115
+Individual House	Medium Standard	Brick Veneer	90/110	Melbourne	1945	2095
+Individual House	Medium Standard	Brick Veneer	90/110	Perth	1925	2075
+Individual House	Medium Standard	Brick Veneer	90/110	Sydney	2325	2505
+Individual House	Medium Standard	Brick Veneer	120/140	Adelaide	1345	1450
+Individual House	Medium Standard	Brick Veneer	120/140	Brisbane	1960	2115
+Individual House	Medium Standard	Brick Veneer	120/140	Melbourne	1945	2095
+Individual House	Medium Standard	Brick Veneer	120/140	Perth	1925	2075
+Individual House	Medium Standard	Brick Veneer	120/140	Sydney	2325	2505
+Individual House	Medium Standard	Brick Veneer	150/350	Adelaide	1345	1450
+Individual House	Medium Standard	Brick Veneer	150/350	Brisbane	1960	2115
+Individual House	Medium Standard	Brick Veneer	150/350	Melbourne	1945	2095
+Individual House	Medium Standard	Brick Veneer	150/350	Perth	1925	2075
+Individual House	Medium Standard	Brick Veneer	150/350	Sydney	2325	2505
+Individual House	Medium Standard	Full Brick	90/110	Adelaide	1400	1510
+Individual House	Medium Standard	Full Brick	90/110	Brisbane	2140	2305
+Individual House	Medium Standard	Full Brick	90/110	Melbourne	2050	2205
+Individual House	Medium Standard	Full Brick	90/110	Perth	2040	2200
+Individual House	Medium Standard	Full Brick	90/110	Sydney	2425	2615
+Individual House	Medium Standard	Full Brick	120/140	Adelaide	1400	1510
+Individual House	Medium Standard	Full Brick	120/140	Brisbane	2140	2305
+Individual House	Medium Standard	Full Brick	120/140	Melbourne	2050	2205
+Individual House	Medium Standard	Full Brick	120/140	Perth	2040	2200
+Individual House	Medium Standard	Full Brick	120/140	Sydney	2425	2615
+Individual House	Medium Standard	Full Brick	150/350	Adelaide	1400	1510
+Individual House	Medium Standard	Full Brick	150/350	Brisbane	2140	2305
+Individual House	Medium Standard	Full Brick	150/350	Melbourne	2050	2205
+Individual House	Medium Standard	Full Brick	150/350	Perth	2040	2200
+Individual House	Medium Standard	Full Brick	150/350	Sydney	2425	2615
+Individual House	High Standard	Timber Framed	90/110	Adelaide	1795	1935
+Individual House	High Standard	Timber Framed	90/110	Brisbane	2590	2795
+Individual House	High Standard	Timber Framed	90/110	Melbourne	2515	2710
+Individual House	High Standard	Timber Framed	90/110	Perth	2737.5	2952.5
+Individual House	High Standard	Timber Framed	90/110	Sydney	2960	3195
+Individual House	High Standard	Timber Framed	120/140	Adelaide	1795	1935
+Individual House	High Standard	Timber Framed	120/140	Brisbane	2590	2795
+Individual House	High Standard	Timber Framed	120/140	Melbourne	2515	2710
+Individual House	High Standard	Timber Framed	120/140	Perth	2737.5	2952.5
+Individual House	High Standard	Timber Framed	120/140	Sydney	2960	3195
+Individual House	High Standard	Timber Framed	150/350	Adelaide	1795	1935
+Individual House	High Standard	Timber Framed	150/350	Brisbane	2590	2795
+Individual House	High Standard	Timber Framed	150/350	Melbourne	2515	2710
+Individual House	High Standard	Timber Framed	150/350	Perth	2737.5	2952.5
+Individual House	High Standard	Timber Framed	150/350	Sydney	2960	3195
+Individual House	High Standard	Brick Veneer	90/110	Adelaide	1930	2080
+Individual House	High Standard	Brick Veneer	90/110	Brisbane	2900	3125
+Individual House	High Standard	Brick Veneer	90/110	Melbourne	2730	2945
+Individual House	High Standard	Brick Veneer	90/110	Perth	2987.5	3222.5
+Individual House	High Standard	Brick Veneer	90/110	Sydney	3245	3500
+Individual House	High Standard	Brick Veneer	120/140	Adelaide	1930	2080
+Individual House	High Standard	Brick Veneer	120/140	Brisbane	2900	3125
+Individual House	High Standard	Brick Veneer	120/140	Melbourne	2730	2945
+Individual House	High Standard	Brick Veneer	120/140	Perth	2987.5	3222.5
+Individual House	High Standard	Brick Veneer	120/140	Sydney	3245	3500
+Individual House	High Standard	Brick Veneer	150/350	Adelaide	1930	2080
+Individual House	High Standard	Brick Veneer	150/350	Brisbane	2900	3125
+Individual House	High Standard	Brick Veneer	150/350	Melbourne	2730	2945
+Individual House	High Standard	Brick Veneer	150/350	Perth	2987.5	3222.5
+Individual House	High Standard	Brick Veneer	150/350	Sydney	3245	3500
+Individual House	High Standard	Full Brick	90/110	Adelaide	2010	2165
+Individual House	High Standard	Full Brick	90/110	Brisbane	3065	3305
+Individual House	High Standard	Full Brick	90/110	Melbourne	2880	3105
+Individual House	High Standard	Full Brick	90/110	Perth	2920	3145
+Individual House	High Standard	Full Brick	90/110	Sydney	3330	3585
+Individual House	High Standard	Full Brick	120/140	Adelaide	2010	2165
+Individual House	High Standard	Full Brick	120/140	Brisbane	3065	3305
+Individual House	High Standard	Full Brick	120/140	Melbourne	2880	3105
+Individual House	High Standard	Full Brick	120/140	Perth	2920	3145
+Individual House	High Standard	Full Brick	120/140	Sydney	3330	3585
+Individual House	High Standard	Full Brick	150/350	Adelaide	2010	2165
+Individual House	High Standard	Full Brick	150/350	Brisbane	3065	3305
+Individual House	High Standard	Full Brick	150/350	Melbourne	2880	3105
+Individual House	High Standard	Full Brick	150/350	Perth	2920	3145
+Individual House	High Standard	Full Brick	150/350	Sydney	3330	3585
+Individual House	Prestige Standard	Brick Veneer	90/110	Adelaide	2625	2830
+Individual House	Prestige Standard	Brick Veneer	90/110	Brisbane	3990	4300
+Individual House	Prestige Standard	Brick Veneer	90/110	Melbourne	3630	3910
+Individual House	Prestige Standard	Brick Veneer	90/110	Perth	3910	4215
+Individual House	Prestige Standard	Brick Veneer	90/110	Sydney	4285	4620
+Individual House	Prestige Standard	Brick Veneer	120/140	Adelaide	2625	2830
+Individual House	Prestige Standard	Brick Veneer	120/140	Brisbane	3990	4300
+Individual House	Prestige Standard	Brick Veneer	120/140	Melbourne	3630	3910
+Individual House	Prestige Standard	Brick Veneer	120/140	Perth	3910	4215
+Individual House	Prestige Standard	Brick Veneer	120/140	Sydney	4285	4620
+Individual House	Prestige Standard	Brick Veneer	150/350	Adelaide	2625	2830
+Individual House	Prestige Standard	Brick Veneer	150/350	Brisbane	3990	4300
+Individual House	Prestige Standard	Brick Veneer	150/350	Melbourne	3630	3910
+Individual House	Prestige Standard	Brick Veneer	150/350	Perth	3910	4215
+Individual House	Prestige Standard	Brick Veneer	150/350	Sydney	4285	4620
+Individual House	Prestige Standard	Full Brick	90/110	Adelaide	2625	2830
+Individual House	Prestige Standard	Full Brick	90/110	Brisbane	3990	4300
+Individual House	Prestige Standard	Full Brick	90/110	Melbourne	3630	3910
+Individual House	Prestige Standard	Full Brick	90/110	Perth	3910	4215
+Individual House	Prestige Standard	Full Brick	90/110	Sydney	4285	4620
+Individual House	Prestige Standard	Full Brick	120/140	Adelaide	2625	2830
+Individual House	Prestige Standard	Full Brick	120/140	Brisbane	3990	4300
+Individual House	Prestige Standard	Full Brick	120/140	Melbourne	3630	3910
+Individual House	Prestige Standard	Full Brick	120/140	Perth	3910	4215
+Individual House	Prestige Standard	Full Brick	120/140	Sydney	4285	4620
+Individual House	Prestige Standard	Full Brick	150/350	Adelaide	2625	2830
+Individual House	Prestige Standard	Full Brick	150/350	Brisbane	3990	4300
+Individual House	Prestige Standard	Full Brick	150/350	Melbourne	3630	3910
+Individual House	Prestige Standard	Full Brick	150/350	Perth	3910	4215
+Individual House	Prestige Standard	Full Brick	150/350	Sydney	4285	4620
